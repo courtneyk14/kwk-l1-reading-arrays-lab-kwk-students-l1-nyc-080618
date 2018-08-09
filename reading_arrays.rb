@@ -2,7 +2,7 @@ STUDENT_NAMES = [ "Adele","Beyoncé","Cardi B", "Lady Gaga","Nicki Minaj", "Riha
 
 def first_student_by_index
   STUDENT_NAMES = [0]
-  
+  puts "STUDENT_NAMES"
   # Write a solution that returns the first student in the array student_names
 end
 
@@ -25,3 +25,4 @@ end
 def first_second_and_third_students
   # Write a solution that returns the first, second and third students
 end
+
